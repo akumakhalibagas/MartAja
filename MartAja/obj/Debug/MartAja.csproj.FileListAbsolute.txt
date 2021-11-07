@@ -1,0 +1,11 @@
+C:\Users\BOCIL\source\repos\MartAja\MartAja\bin\Debug\DbBarang.accdb
+C:\Users\BOCIL\source\repos\MartAja\MartAja\bin\Debug\MartAja.exe.config
+C:\Users\BOCIL\source\repos\MartAja\MartAja\bin\Debug\MartAja.exe
+C:\Users\BOCIL\source\repos\MartAja\MartAja\bin\Debug\MartAja.pdb
+C:\Users\BOCIL\source\repos\MartAja\MartAja\obj\Debug\MartAja.csproj.AssemblyReference.cache
+C:\Users\BOCIL\source\repos\MartAja\MartAja\obj\Debug\MartAja.Form1.resources
+C:\Users\BOCIL\source\repos\MartAja\MartAja\obj\Debug\MartAja.Properties.Resources.resources
+C:\Users\BOCIL\source\repos\MartAja\MartAja\obj\Debug\MartAja.csproj.GenerateResource.cache
+C:\Users\BOCIL\source\repos\MartAja\MartAja\obj\Debug\MartAja.csproj.CoreCompileInputs.cache
+C:\Users\BOCIL\source\repos\MartAja\MartAja\obj\Debug\MartAja.exe
+C:\Users\BOCIL\source\repos\MartAja\MartAja\obj\Debug\MartAja.pdb
